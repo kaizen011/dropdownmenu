@@ -5,3 +5,16 @@ background-size: cover;
 height:100vh;
 width: 100vh;
 } 
+
+
+/* Style the dropdown toggle (button or navbar item) */
+.dropdown-toggle {
+    cursor: pointer;
+    /* Add your button/navbar styles here */
+  }
+  
+  /* Style the dropdown menu and hide it initially */
+  .dropdown-menu {
+    display: none;
+    /* Add your dropdown menu styles here */
+  }
